@@ -1,15 +1,14 @@
 {
-  "name": "alexandre",
+  "name": "bot",
   "version": "1.0.0",
-  "description": "Bot By Creep_1",
+  "description": "",
   "main": "index.js",
-  "dependencies": {
-    "discord.js": "^11.4.2",
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Creep_1",
-  "license": "ISC"
+  "author": "alexpgm",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
 }
